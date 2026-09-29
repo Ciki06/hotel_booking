@@ -1,9 +1,0 @@
-# IDE files
-.idea/
-
-# Dataset
-hotel_bookings.csv
-
-# JetBrains files
-/shelf/
-/workspace.xml
